@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine learning(NLP)**
 - 💬 Ask me about **Python,C++,DSA**
-- 📫 How to reach me **deshmukhmitali117@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/mitali-deshmukh-459457227**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
