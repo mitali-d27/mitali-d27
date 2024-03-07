@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/https://www.kaggle.com/mitalid04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mitalid04" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mitalid04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mitalid04" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mitaliii_deshmukh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/mitaliii_deshmukh/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/deshmukhmitali11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@deshmukhmitali11" height="30" width="40" /></a>
 <a href="https://leetcode.com/deshmukhmitali117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deshmukhmitali11" height="30" width="40" /></a>
