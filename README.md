@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitali-d27&label=Profile%20views&color=0e75b6&style=flat" alt="mitali-d27" /> </p>
 
 - 🌱 I’m currently learning **Machine learning**
-- 💬 Ask me about **Python,C++,DSA**
+- 💬 Ask me about **Python,DSA**
 - 📫 How to reach me **www.linkedin.com/in/mitali-deshmukh-459457227**
 
 <h3 align="left">Connect with me:</h3>
